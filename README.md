@@ -1,9 +1,8 @@
 <img src="https://github.com/Fingertips18/Fingertips18/blob/main/980x300.png" align="center" alt="Banner" width="100%" />
 
 ## Hey👋 What's up?
+<img align="right" alt="Fingertips" width="295" src="https://github.com/Fingertips18/Fingertips18/blob/main/fingertips.png">
 <p>I code at dawn and I code till dusk. 😎</p>
-
-<img align="right" alt="Fingertips" width="200" src="https://github.com/Fingertips18/Fingertips18/blob/main/fingertips.png">
 
 [![](https://visitcount.itsvg.in/api?id=fingertips18&icon=0&color=0)](https://visitcount.itsvg.in)
 
