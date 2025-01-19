@@ -32,20 +32,44 @@
 </p>
 
 <div align="center">
-<pre>
-<font size="8"><img src="./assets/writing.gif" alt="Writing" width="25"> <sup><sub>I'm currently working on <strong>Microservices</strong>.</sub></sup></font>
-<img src="./assets/plant.gif" alt="Plant" width="25"> <sup><font size="4">I'm currently learning <strong>DevOps</strong>.</font></sup>
-<img src="./assets/thought.gif" alt="Thought" width="25"> <sup><font size="4">Ask me about anything related to <strong>Software Development</strong>.</font></sup>
-<img src="./assets/rocket.gif" alt="Rocket" width="25"> <sup><font size="4">Most of my projects are available in <a href="https://github.com/Fingertips18">Github</a> & <strong>Bitbucket</strong>.</font></sup>
-<img src="./assets/handshake.gif" alt="Handshake" width="25"> <sup><font size="4">You can reach me via email at <a href="mailto:developer.ghiantan@gmail.om">developer.ghiantan@gmail.com</a>.</font></sup>
-<img src="./assets/thunderbolt.gif" alt="Thunderbolt" width="25"> <sup><font size="4">Fun fact <strong>I do calisthenics</strong>.</font></sup>
-</pre>
+    <h3 valign="center"> 
+        <img src="./assets/fire.gif" alt="Fire" width="30"/>
+        Welcome to my GitHub
+        <img src="./assets/fire.gif" alt="Fire" width="30"/>
+    </h3>
+    <table>
+        <tr>
+            <td><img src="./assets/writing.gif" alt="Writing" width="20"/> Currently working on</td>
+            <td><strong>Microservices</strong></td>
+        </tr>
+        <tr>
+            <td><img src="./assets/plant.gif" alt="Plant" width="20"/> Learning</td>
+            <td><strong>DevOps</strong></td>
+        </tr>
+        <tr>
+            <td><img src="./assets/thought.gif" alt="Thought" width="20"/> Ask me about</td>
+            <td><strong>Software Development</strong></td>
+        </tr>
+        <tr>
+            <td><img src="./assets/rocket.gif" alt="Rocket" width="20"/> Find my work</td>
+            <td><a href="https://github.com/Fingertips18">Github</a> & <strong>Bitbucket</strong></td>
+        </tr>
+        <tr>
+            <td><img src="./assets/handshake.gif" alt="Handshake" width="20"/> Reach me</td>
+            <td><a href="mailto:developer.test@gmail.com">developer.test@gmail.com</a></td>
+        </tr>
+        <tr>
+            <td><img src="./assets/thunderbolt.gif" alt="Thunderbolt" width="20"/> Fun fact</td>
+            <td><strong>I do calisthenics</strong> 💪</td>
+        </tr>
+    </table>
 </div>
 
+<br />
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fingertips18&theme=radical&hide_border=true" alt="Stats" height="250" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fingertips18&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="250"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=fingertips18&theme=radical&hide_border=true" alt="Stats" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fingertips18&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="200"/>
 </div>
 
 <br />
