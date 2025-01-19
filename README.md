@@ -33,7 +33,7 @@
 
 <div align="center">
 <pre>
-<img src="./assets/writing.gif" alt="Writing" width="25"> <sup><font size="4">I'm currently working on <strong>Microservices</strong>.</font></sup>
+<font size="8"><img src="./assets/writing.gif" alt="Writing" width="25"> <sup><sub>I'm currently working on <strong>Microservices</strong>.</sub></sup></font>
 <img src="./assets/plant.gif" alt="Plant" width="25"> <sup><font size="4">I'm currently learning <strong>DevOps</strong>.</font></sup>
 <img src="./assets/thought.gif" alt="Thought" width="25"> <sup><font size="4">Ask me about anything related to <strong>Software Development</strong>.</font></sup>
 <img src="./assets/rocket.gif" alt="Rocket" width="25"> <sup><font size="4">Most of my projects are available in <a href="https://github.com/Fingertips18">Github</a> & <strong>Bitbucket</strong>.</font></sup>
@@ -58,15 +58,13 @@
     Code <img src="./assets/dizzy.gif" alt="Dizz 1" width="25" /> Cycle 
 </h2>
 <br />
-<table align="center">
-  <tr>
-    <td><img src="./assets/nerd.gif" alt="Nerd" width="100"></td>
-    <td><img src="./assets/cool.gif" alt="Cool" width="100"></td>
-    <td><img src="./assets/thinking.gif" alt="Thinking" width="100"></td>
-    <td><img src="./assets/drain.gif" alt="Drain" width="100"></td>
-    <td><img src="./assets/melting.gif" alt="Melting" width="100"></td>
-  </tr>
-</table>
+<div align="center">
+    <img src="./assets/nerd.gif" alt="Nerd" width="100">
+    <img src="./assets/cool.gif" alt="Cool" width="100">
+    <img src="./assets/thinking.gif" alt="Thinking" width="100">
+    <img src="./assets/drain.gif" alt="Drain" width="100">
+    <img src="./assets/melting.gif" alt="Melting" width="100">
+</div>
 
 <br /><br /><br />
 
