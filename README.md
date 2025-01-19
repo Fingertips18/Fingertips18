@@ -31,53 +31,49 @@
 </a>
 </p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
-<div style="flex: 1; min-width: 500px;">
-<pre style="white-space: pre-wrap; margin: 0;">
-<div style="display: flex; align-items: center;">
-    <img src="./assets/writing.gif" alt="Writing" width="25">&nbsp;<span>I'm currently working on <strong>Microservices</strong>.</span>
-</div>
-<div style="display: flex; align-items: center; margin-top: -20px">
-    <img src="./assets/plant.gif" alt="Plant" width="25">&nbsp;<span>I'm currently learning <strong>DevOps</strong>.</span>
-</div>
-<div style="display: flex; align-items: center; margin-top: -20px">
-    <img src="./assets/thought.gif" alt="Thought" width="25">&nbsp;<span>Ask me about anything related to <strong>Software Development</strong>.</span>
-</div>
-<div style="display: flex; align-items: center; margin-top: -20px">
-    <img src="./assets/rocket.gif" alt="Rocket" width="25">&nbsp;<span>Most of my projects are available in <a href="https://github.com/Fingertips18">Github</a> & <strong>Bitbucket</strong>.</span>
-</div>
-<div style="display: flex; align-items: center; margin-top: -20px">
-    <img src="./assets/handshake.gif" alt="Handshake" width="25">&nbsp;<span>You can reach me via email at <a href="mailto:developer.ghiantan@gmail.com">developer.ghiantan@gmail.com</a>.</span>
-</div>
-<div style="display: flex; align-items: center; margin-top: -20px; margin-bottom: -20px">
-    <img src="./assets/thunderbolt.gif" alt="ThunderBolt" width="25">&nbsp;<span>Fun fact <strong>I'm just a chill guy. 🗿</strong></span>
-</div>
+<div align="center">
+<pre>
+<img src="./assets/writing.gif" alt="Writing" width="25"> <sup><font size="4">I'm currently working on <strong>Microservices</strong>.</font></sup>
+<img src="./assets/plant.gif" alt="Plant" width="25"> <sup><font size="4">I'm currently learning <strong>DevOps</strong>.</font></sup>
+<img src="./assets/thought.gif" alt="Thought" width="25"> <sup><font size="4">Ask me about anything related to <strong>Software Development</strong>.</font></sup>
+<img src="./assets/rocket.gif" alt="Rocket" width="25"> <sup><font size="4">Most of my projects are available in <a href="https://github.com/Fingertips18">Github</a> & <strong>Bitbucket</strong>.</font></sup>
+<img src="./assets/handshake.gif" alt="Handshake" width="25"> <sup><font size="4">You can reach me via email at <a href="mailto:developer.ghiantan@gmail.om">developer.ghiantan@gmail.com</a>.</font></sup>
+<img src="./assets/thunderbolt.gif" alt="Thunderbolt" width="25"> <sup><font size="4">Fun fact <strong>I do calisthenics</strong>.</font></sup>
 </pre>
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fingertips18&theme=radical&hide_border=true&layout=compact" alt="Right Stats" height="200"/>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=fingertips18&theme=radical&hide_border=true" alt="Stats" height="250" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fingertips18&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="250"/>
 </div>
 
-<div align="center" style="margin-top: 20px">
+<br />
+
+<div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=fingertips18&theme=radical&no-frame=true&no-bg=true&column=-1" alt="Trophies"/>
 </div>
 
-<h2 align="center" style="margin-top: 20px">Code Cycle</h2>
-<div style="display: flex; align-items: center; flex-wrap: wrap; justify-content: center; gap: 20px 50px">
-    <img src="./assets/nerd.gif" alt="Nerd" width="100">
-    <img src="./assets/cool.gif" alt="Cool" width="100">
-    <img src="./assets/thinking.gif" alt="Thinking" width="100">
-    <img src="./assets/drain.gif" alt="Drain" width="100">
-    <img src="./assets/melting.gif" alt="Melting" width="100">
-</div>
+<h2 align="center">
+    Code <img src="./assets/dizzy.gif" alt="Dizz 1" width="25" /> Cycle 
+</h2>
+<br />
+<table align="center">
+  <tr>
+    <td><img src="./assets/nerd.gif" alt="Nerd" width="100"></td>
+    <td><img src="./assets/cool.gif" alt="Cool" width="100"></td>
+    <td><img src="./assets/thinking.gif" alt="Thinking" width="100"></td>
+    <td><img src="./assets/drain.gif" alt="Drain" width="100"></td>
+    <td><img src="./assets/melting.gif" alt="Melting" width="100"></td>
+  </tr>
+</table>
 
 <br /><br /><br />
 
 <p align="center">
     <img src="./assets/coffee.png" alt="Coffee" width="50" />
-</p>
-<p align="center" style="margin-top: -15px">
-Feel free to <strong>Contact</strong>, <strong>Connect</strong> and <strong>Collaborate</strong>.
-</p>
-<p align="center" style="margin-top: -18px">
-<i>Ghian Tan @ Fingertips</i>
+    <br>
+    Feel free to <strong>Contact</strong>, <strong>Connect</strong>, and <strong>Collaborate</strong>.
+    <br>
+    <i>Ghian Tan @ Fingertips</i>
 </p>
