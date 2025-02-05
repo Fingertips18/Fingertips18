@@ -56,7 +56,7 @@
         </tr>
         <tr>
             <td><img src="./assets/handshake.gif" alt="Handshake" width="20"/> Reach me</td>
-            <td><a href="mailto:developer.test@gmail.com">developer.test@gmail.com</a></td>
+            <td><a href="mailto:developer.ghiantan@gmail.com">developer.ghiantan@gmail.com</a></td>
         </tr>
         <tr>
             <td><img src="./assets/thunderbolt.gif" alt="Thunderbolt" width="20"/> Fun fact</td>
