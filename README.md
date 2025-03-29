@@ -4,7 +4,7 @@
     Hey! <img src="./assets/wave.gif" alt="Wave" width="30px"> What's up?
 </h1>
 
-<p style="font-size: 18px" align="center">
+<p style="font-size: 24px" align="center">
     I'm <a href="https://fingertips18.github.io">Fingertips</a>!
 </p>
 <p style="margin-top: -15px" align="center">
@@ -68,14 +68,14 @@
 <br />
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fingertips18&theme=radical&hide_border=true" alt="Stats" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fingertips18&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="200"/>
+    <img src="https://github-readme-stats-inky-kappa-82.vercel.app/api?username=Fingertips18&theme=radical&hide_border=true" alt="Stats" height="200" />
+    <img src="https://github-readme-stats-inky-kappa-82.vercel.app/api/top-langs/?username=Fingertips18&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="200"/>
 </div>
 
 <br />
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=fingertips18&theme=radical&no-frame=true&no-bg=true&column=-1" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Fingertips18&theme=radical&no-frame=true&no-bg=true&column=-1" alt="Trophies"/>
 </div>
 
 <h2 align="center">
