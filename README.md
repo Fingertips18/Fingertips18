@@ -68,8 +68,8 @@
 <br />
 
 <div align="center">
-    <img src="https://github-readme-stats-inky-kappa-82.vercel.app/api?username=Fingertips18&theme=radical&hide_border=true" alt="Stats" height="200" />
-    <img src="https://github-readme-stats-inky-kappa-82.vercel.app/api/top-langs/?username=Fingertips18&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="200"/>
+    <img src="https://github-readme-stats-fingertips.vercel.app/api?username=fingertips18&theme=radical&hide_border=true" alt="Stats" height="200" />
+    <img src="https://github-readme-stats-fingertips.vercel.app/api/top-langs/?username=Fingertips18&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="200"/>
 </div>
 
 <br />
